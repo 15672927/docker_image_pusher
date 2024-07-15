@@ -12,3 +12,5 @@ jumpserver/koko:v2.25.2
 jumpserver/lion:v2.25.2
 jumpserver/magnus:v2.25.2
 jumpserver/web:v2.25.2
+
+
